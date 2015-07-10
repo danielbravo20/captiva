@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/BPM_Mapeo/!svn/ver/364/Mapeo_v35/src/com/carga/portal/modelo
+END
+Proyecto.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/BPM_Mapeo/!svn/ver/377/Mapeo_v35/src/com/carga/portal/modelo/Proyecto.java
+END
+AtributoTarea.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/BPM_Mapeo/!svn/ver/385/Mapeo_v35/src/com/carga/portal/modelo/AtributoTarea.java
+END
+Proceso.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/BPM_Mapeo/!svn/ver/403/Mapeo_v35/src/com/carga/portal/modelo/Proceso.java
+END
+ConsultaTareaCompletar.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/BPM_Mapeo/!svn/ver/379/Mapeo_v35/src/com/carga/portal/modelo/ConsultaTareaCompletar.java
+END
+AS400In.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/BPM_Mapeo/!svn/ver/384/Mapeo_v35/src/com/carga/portal/modelo/AS400In.java
+END
+ObjetoBPM.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/BPM_Mapeo/!svn/ver/387/Mapeo_v35/src/com/carga/portal/modelo/ObjetoBPM.java
+END
+Perfil.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/BPM_Mapeo/!svn/ver/308/Mapeo_v35/src/com/carga/portal/modelo/Perfil.java
+END
+ClaseProceso.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/BPM_Mapeo/!svn/ver/335/Mapeo_v35/src/com/carga/portal/modelo/ClaseProceso.java
+END
+Tabla.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/BPM_Mapeo/!svn/ver/369/Mapeo_v35/src/com/carga/portal/modelo/Tabla.java
+END
+Clase.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/BPM_Mapeo/!svn/ver/364/Mapeo_v35/src/com/carga/portal/modelo/Clase.java
+END
+CampoSQLConsulta.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/BPM_Mapeo/!svn/ver/346/Mapeo_v35/src/com/carga/portal/modelo/CampoSQLConsulta.java
+END
+Tarea.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/BPM_Mapeo/!svn/ver/399/Mapeo_v35/src/com/carga/portal/modelo/Tarea.java
+END
+Producto.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/BPM_Mapeo/!svn/ver/308/Mapeo_v35/src/com/carga/portal/modelo/Producto.java
+END
+TablaTarea.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/BPM_Mapeo/!svn/ver/323/Mapeo_v35/src/com/carga/portal/modelo/TablaTarea.java
+END
+PerfilModulo.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/BPM_Mapeo/!svn/ver/323/Mapeo_v35/src/com/carga/portal/modelo/PerfilModulo.java
+END
+AtributoConsulta.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/BPM_Mapeo/!svn/ver/342/Mapeo_v35/src/com/carga/portal/modelo/AtributoConsulta.java
+END
+UnidadNegocio.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/BPM_Mapeo/!svn/ver/339/Mapeo_v35/src/com/carga/portal/modelo/UnidadNegocio.java
+END
+SubModulo.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/BPM_Mapeo/!svn/ver/308/Mapeo_v35/src/com/carga/portal/modelo/SubModulo.java
+END
+CampoSQLProceso.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/BPM_Mapeo/!svn/ver/335/Mapeo_v35/src/com/carga/portal/modelo/CampoSQLProceso.java
+END
+AS400InLista.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/BPM_Mapeo/!svn/ver/308/Mapeo_v35/src/com/carga/portal/modelo/AS400InLista.java
+END
+AS400OutLista.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/BPM_Mapeo/!svn/ver/308/Mapeo_v35/src/com/carga/portal/modelo/AS400OutLista.java
+END
+CampoSQL.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/BPM_Mapeo/!svn/ver/368/Mapeo_v35/src/com/carga/portal/modelo/CampoSQL.java
+END
+AS400Out.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/BPM_Mapeo/!svn/ver/384/Mapeo_v35/src/com/carga/portal/modelo/AS400Out.java
+END
+AS400Programa.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/BPM_Mapeo/!svn/ver/363/Mapeo_v35/src/com/carga/portal/modelo/AS400Programa.java
+END
+AtributoProceso.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/BPM_Mapeo/!svn/ver/328/Mapeo_v35/src/com/carga/portal/modelo/AtributoProceso.java
+END
+Configuracion.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/BPM_Mapeo/!svn/ver/377/Mapeo_v35/src/com/carga/portal/modelo/Configuracion.java
+END
+Consulta.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/BPM_Mapeo/!svn/ver/317/Mapeo_v35/src/com/carga/portal/modelo/Consulta.java
+END
+Catalogo.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/BPM_Mapeo/!svn/ver/375/Mapeo_v35/src/com/carga/portal/modelo/Catalogo.java
+END
+Atributo.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/BPM_Mapeo/!svn/ver/385/Mapeo_v35/src/com/carga/portal/modelo/Atributo.java
+END
+PerfilSubModuloProducto.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/BPM_Mapeo/!svn/ver/308/Mapeo_v35/src/com/carga/portal/modelo/PerfilSubModuloProducto.java
+END
+TablaConsulta.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/BPM_Mapeo/!svn/ver/325/Mapeo_v35/src/com/carga/portal/modelo/TablaConsulta.java
+END
+CampoSQLTarea.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/BPM_Mapeo/!svn/ver/335/Mapeo_v35/src/com/carga/portal/modelo/CampoSQLTarea.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/BPM_Mapeo/!svn/ver/365/Mapeo_v35/src/com/carga/mapeo/dao/impl
+END
+ProcesoDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/BPM_Mapeo/!svn/ver/403/Mapeo_v35/src/com/carga/mapeo/dao/impl/ProcesoDaoImpl.java
+END
+TareaDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/BPM_Mapeo/!svn/ver/401/Mapeo_v35/src/com/carga/mapeo/dao/impl/TareaDaoImpl.java
+END
+TablaDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/BPM_Mapeo/!svn/ver/389/Mapeo_v35/src/com/carga/mapeo/dao/impl/TablaDaoImpl.java
+END
+ProyectoDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/BPM_Mapeo/!svn/ver/377/Mapeo_v35/src/com/carga/mapeo/dao/impl/ProyectoDaoImpl.java
+END
+AS400DaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/BPM_Mapeo/!svn/ver/384/Mapeo_v35/src/com/carga/mapeo/dao/impl/AS400DaoImpl.java
+END
+ClaseDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/BPM_Mapeo/!svn/ver/371/Mapeo_v35/src/com/carga/mapeo/dao/impl/ClaseDaoImpl.java
+END
+ConsultaDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/BPM_Mapeo/!svn/ver/379/Mapeo_v35/src/com/carga/mapeo/dao/impl/ConsultaDaoImpl.java
+END
